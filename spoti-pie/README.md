@@ -1,5 +1,5 @@
 
-# Power BI (& SpotiPie)
+# Power BI (& [SpotiPie](https://github.com/sahils-eka/python/tree/main/projects/spoti-pie))
 
 ## Dashboard
 
